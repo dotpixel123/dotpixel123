@@ -1,4 +1,3 @@
-
 ```
 class CSEfreshie:
 
@@ -17,8 +16,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=41ac6b)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=41ac6b)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=41ac6b)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=41ac6b)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=41ac6b)
+
 #
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=vue-dark)<br>
 `forgive my broken humor`
